@@ -2,6 +2,6 @@
 
 Fun programming challenges to do during my free-time.
 
-I will be attempting these problems in Java and perhaps Ruby
+I will be attempting these problems in Java
 
-Completed Problems: NONE
+Completed Problems: 1,2,3
